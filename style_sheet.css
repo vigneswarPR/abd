@@ -1,0 +1,20 @@
+h1{
+    color:brown;
+    font-size:100px;
+}
+.qwe{
+    color:rgb(172, 9, 9);
+}
+html{
+    background-color:green;
+}
+.ni{
+    background-color:aqua;
+    width:auto;
+    height:auto;
+    background-color:brown;
+    border-radius:5px;
+    padding: 20px 30px 40px 50px;
+    margin:5px  solid black;
+    box-sizing:border-box;
+}
